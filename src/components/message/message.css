@@ -1,0 +1,74 @@
+@import url('https://fonts.cdnfonts.com/css/spongition');
+
+.message-section {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(to right, #4A808D, #41B0BA);
+    overflow: visible;
+    display: flex;
+    flex-direction: column;
+}
+
+.message-logo-title {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    z-index: 1;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.message-logo {
+    width: 50px;
+    /* Adjust as needed */
+    margin-right: 10px;
+    border-radius: 0%;
+}
+
+.message-title {
+    font-size: 16px;
+    /* Adjust as needed */
+    color: white;
+}
+
+.message-content h1,
+.message-content h2,
+.message-content p {
+    margin-bottom: 1rem;
+    color: #fff;
+}
+
+.message-content {
+    margin-top: 4rem;
+    margin-left: 3rem;
+    width: 70%;
+}
+
+.message-content h1 {
+    font-size: 50px;
+    font-family: 'Spongition', sans-serif;
+    position: relative;
+    color: #fff;
+}
+
+.message-content h1::after {
+    content: "";
+    position: absolute;
+    bottom: 3px; /* Adjust the distance below the text */
+    left: 0;
+    width: 15%; /* The underline will take up % of the width */
+    height: 6px; /* Thickness of the underline */
+    background-color: #40E0E7;
+}
+
+.message-content h2 {
+    font-family: 'Spongition', sans-serif;
+}
+
+.message-content p {
+    font-size: 20px;
+    /* font-family: 'Lexend', sans-serif; */
+    font-family: 'Spongition', sans-serif;
+    width: 80%;
+}

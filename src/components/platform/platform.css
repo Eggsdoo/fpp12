@@ -1,0 +1,80 @@
+@import url('https://fonts.cdnfonts.com/css/spongition');
+
+.platform-section {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    /* background-color: #67AB3F; */
+    background: linear-gradient(to right, #4A808D, #41B0BA);
+    overflow: visible;
+    display: flex;
+    flex-direction: column;
+}
+
+.platform-logo-title {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    z-index: 1;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.platform-logo {
+    width: 50px;
+    /* Adjust as needed */
+    margin-right: 10px;
+    border-radius: 0%;
+}
+
+.platform-title {
+    font-size: 16px;
+    /* Adjust as needed */
+    color: white;
+}
+
+.platform-content {
+    margin-top: 4rem;
+    margin-left: 3rem;
+    width: 70%;
+}
+
+.platform-content h1,
+.platform-content h2,
+.platform-content p {
+    margin-bottom: 1rem;
+    color: #fff;
+}
+
+.platform-content h1 {
+    font-size: 50px;
+    font-family: 'Spongition', sans-serif;
+    position: relative;
+    /* width: 60%; */
+}
+
+
+.platform-content h1::after {
+    content: "";
+    position: absolute;
+    bottom: 3px; /* Adjust the distance below the text */
+    left: 0;
+    width: 20%; /* The underline will take up % of the width */
+    height: 6px; /* Thickness of the underline */
+    background-color: #40E0E7;
+}
+
+.platform-content h2 {
+    font-family: 'Spongition', sans-serif;
+}
+
+.platform-content p {
+    font-size: 20px;
+    font-family: 'Spongition', sans-serif;
+    font-weight: 600;
+}
+
+.platform-content h3 {
+    color: #E1E1E1;
+    font-family: 'Spongition', sans-serif;
+}
