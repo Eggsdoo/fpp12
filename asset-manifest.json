@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fpp12/static/css/main.693f91f1.css",
-    "main.js": "/fpp12/static/js/main.bb69e4d6.js",
+    "main.css": "/fpp12/static/css/main.f2453252.css",
+    "main.js": "/fpp12/static/js/main.8ae7d9d2.js",
     "static/js/453.5b72a233.chunk.js": "/fpp12/static/js/453.5b72a233.chunk.js",
+    "static/media/CUA-Campaign.pdf": "/fpp12/static/media/CUA-Campaign.06e41f0dab2de2c02450.pdf",
     "static/media/wajid-zaman.png": "/fpp12/static/media/wajid-zaman.e650f8667f951b026e10.png",
-    "static/media/bf-logo.png": "/fpp12/static/media/bf-logo.c0bbce02771f9b65129b.png",
-    "static/media/BF-Campaign.pdf": "/fpp12/static/media/BF-Campaign.bd4281a44a08556d4ed3.pdf",
+    "static/media/cua-logo.png": "/fpp12/static/media/cua-logo.a4b60c765dc7be4ad2b6.png",
     "static/media/bf-bg.jpeg": "/fpp12/static/media/bf-bg.7fd9f45b57a7fc945b0e.jpeg",
     "index.html": "/fpp12/index.html",
-    "main.693f91f1.css.map": "/fpp12/static/css/main.693f91f1.css.map",
-    "main.bb69e4d6.js.map": "/fpp12/static/js/main.bb69e4d6.js.map",
+    "main.f2453252.css.map": "/fpp12/static/css/main.f2453252.css.map",
+    "main.8ae7d9d2.js.map": "/fpp12/static/js/main.8ae7d9d2.js.map",
     "453.5b72a233.chunk.js.map": "/fpp12/static/js/453.5b72a233.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.693f91f1.css",
-    "static/js/main.bb69e4d6.js"
+    "static/css/main.f2453252.css",
+    "static/js/main.8ae7d9d2.js"
   ]
 }
