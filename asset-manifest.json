@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fpp12/static/css/main.693f91f1.css",
+    "main.js": "/fpp12/static/js/main.bb69e4d6.js",
+    "static/js/453.5b72a233.chunk.js": "/fpp12/static/js/453.5b72a233.chunk.js",
+    "static/media/wajid-zaman.png": "/fpp12/static/media/wajid-zaman.e650f8667f951b026e10.png",
+    "static/media/bf-logo.png": "/fpp12/static/media/bf-logo.c0bbce02771f9b65129b.png",
+    "static/media/BF-Campaign.pdf": "/fpp12/static/media/BF-Campaign.bd4281a44a08556d4ed3.pdf",
+    "static/media/bf-bg.jpeg": "/fpp12/static/media/bf-bg.7fd9f45b57a7fc945b0e.jpeg",
+    "index.html": "/fpp12/index.html",
+    "main.693f91f1.css.map": "/fpp12/static/css/main.693f91f1.css.map",
+    "main.bb69e4d6.js.map": "/fpp12/static/js/main.bb69e4d6.js.map",
+    "453.5b72a233.chunk.js.map": "/fpp12/static/js/453.5b72a233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.693f91f1.css",
+    "static/js/main.bb69e4d6.js"
+  ]
+}
